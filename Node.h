@@ -4,7 +4,7 @@
  * 
  * @tparam T The type of data stored in the node
  * 
- * @note You need to convert this Node class to take in a generic template type T for data.
+ * @todo You need to convert this Node class to take in a generic template type T for data.
  */
 class Node {
     public:
